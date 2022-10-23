@@ -1,8 +1,8 @@
 # Minecraft-in-Python-Ursina
 
-You have to import turtle to start this app. you can using this cmd for turtle.
+You have to import ursina to start this app. you can using this cmd for ursina engine.
 
-pip install PythonTurtle
+pip install ursina
 
 # Key 
 
